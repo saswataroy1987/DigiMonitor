@@ -13,4 +13,4 @@ Digimonitor is a cyberSpace Monitoring tool that uses supervised and unsupervise
 
 ## DigiMonitor Demo
 
-#https://user-images.githubusercontent.com/99898404/192083381-b6fda5a3-ecdd-4ef2-b6e5-da0906db9c71.mp4
+https://user-images.githubusercontent.com/99898404/192083381-b6fda5a3-ecdd-4ef2-b6e5-da0906db9c71.mp4
