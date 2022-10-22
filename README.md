@@ -19,10 +19,11 @@ Digimonitor is a Real-Time CyberSpace Monitoring tool that uses supervised and u
 }
 
 ~~~~
+* For the Visualization purpose, we use Flask app.
 
 
 ## Installation Guidelines
-
+- Step1: install mongodb 
 
 
 ## Code Avaialability
