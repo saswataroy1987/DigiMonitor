@@ -23,7 +23,9 @@ Digimonitor is a Real-Time CyberSpace Monitoring tool that uses supervised and u
 
 
 ## Installation Guidelines
-- Step1: install mongodb 
+- Install mongodb if you do not want to use Dokcer container and store all the collected twees in a single MongoDB. See the documenation at https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
+- Install Docker Conatiner to parallelize your data collection process and installation guidelines is found at https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
+- 
 
 
 ## Code Avaialability
