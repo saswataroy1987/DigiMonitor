@@ -27,8 +27,7 @@ Digimonitor is a Real-Time CyberSpace Monitoring tool that uses supervised and u
 - Install Docker Conatiner to parallelize your data collection process and installation guidelines is found at https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
 - Use the following command to create the environment "digimonitor" which contains all the required packages. 
     - conda env create -f digimonitor.yml
-- For the flask installation use the following command
-  - pip install Flask 
+- For the flask installation, check commands at https://www.tecmint.com/install-flask-in-ubuntu/
 
 
 
