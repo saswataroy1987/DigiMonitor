@@ -8,7 +8,7 @@ Digimonitor is a Real-Time CyberSpace Monitoring tool that uses supervised and u
 * We then use the Twitter streaming API to collect real time tweets with the help of the above-mentioned keywords and store all the collected tweets under N different MongoDB. Each MongoDB is kept under different Docker Containers.
 * Tweets are first classified (Violence Extremism, Non-Violent Extremism, Radical-Violence, Non Radical-Violence) before storing into the database. Details of these four classes are given in the "XXX.pdf" file.
 * We use K-Means Clustering Algorithm to identify top K events for Task II.
-* For Virality prediction task, we chose those tweets as viral whose final retweet count is more than some predefined outbreak threshold within declaration time. (Follow the paper "Forecasting the Future: Leveraging RNN based FeatureConcatenation for Tweet Outbreak Prediction" at https://doi.org/10.1145/3371158.3371190). If you find it useful, cite us
+* For Virality prediction task, we chose those tweets as viral whose final retweet count is more than some predefined outbreak threshold within declaration time. (Follow the paper "Forecasting the Future: Leveraging RNN based FeatureConcatenation for Tweet Outbreak Prediction" at https://doi.org/10.1145/3371158.3371190). If you find this paper useful, cite us
 ~~~~
 @incollection{roy2020forecasting,
   title={Forecasting the future: leveraging rnn based feature concatenation for tweet outbreak prediction},
